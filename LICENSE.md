@@ -1,4 +1,4 @@
-# 
+# Get the ultimate isolated-margin trading bot with smart isolated-margin trading bot Executor | trailing-stop + scalping. Featuring trailing-stop and scalping, it's the best choice
 
 
 
